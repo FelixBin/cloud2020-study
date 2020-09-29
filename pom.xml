@@ -22,7 +22,7 @@
         <lombok.version>1.16.18</lombok.version>
         <mysql.version>8.0.21</mysql.version>
         <druid.verison>1.1.16</druid.verison>
-        <mybatis.spring.boot.verison>1.3.0</mybatis.spring.boot.verison>
+        <mybatis.spring.boot.verison>2.1.1</mybatis.spring.boot.verison>
     </properties>
 
     <!-- 子模块继承之后,提供作用:锁定版本+子module不用写groupId和version-->
@@ -103,15 +103,20 @@
                 </configuration>
             </plugin>
         </plugins>
+
         <resources>
             <resource>
+                <!-- xml放在java目录下-->
                 <directory>src/main/java</directory>
                 <includes>
                     <include>**/*.xml</include>
                 </includes>
             </resource>
+            <!--指定资源的位置（xml放在resources下，可以不用指定）-->
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
         </resources>
-
 
     </build>
 </project>
