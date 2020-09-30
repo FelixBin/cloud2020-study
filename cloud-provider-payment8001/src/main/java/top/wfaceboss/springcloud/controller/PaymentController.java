@@ -2,13 +2,11 @@ package top.wfaceboss.springcloud.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import top.wfaceboss.springcloud.entities.CommonResult;
 import top.wfaceboss.springcloud.entities.Payment;
 import top.wfaceboss.springcloud.service.PaymentService;
+
 
 import javax.annotation.Resource;
 
@@ -24,7 +22,6 @@ public class PaymentController {
 
     /**
      * 根据id获取支付对象
-     *
      * @param id
      * @return
      */
@@ -48,7 +45,7 @@ public class PaymentController {
      */
 
     @PostMapping(value = "/payment/create")
-    public CommonResult create(Payment payment) {
+    public CommonResult create(@RequestBody Payment payment) {
         int result = paymentService.create(payment);
         if (result > 0) {
 

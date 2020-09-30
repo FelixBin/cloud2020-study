@@ -7,6 +7,6 @@ import top.wfaceboss.springcloud.entities.Payment;
 
 @Mapper
 public interface PaymentDao {
-    public int create(Payment payment);
-    public Payment getPaymentById(@Param("id") Long id);
+     int create(Payment payment);
+     Payment getPaymentById(@Param("id") Long id);
 }
