@@ -1,16 +1,16 @@
+###服务端口号
 server:
   port: 7001
+###eureka 基本信息配置
 eureka:
   instance:
-    hostname: eureka7001.top
+    ###注册中心ip地址
+    hostname: 127.0.0.1
   client:
-    # false表示不向注册中心注册自己
-    register-with-eureka: false
-    # false表示自己端就是注册中心,我的职责就是维护服务实例,并不需要检索服务
-    fetch-registry: false
-    service-url:
+    serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
-  server:
-    #关闭自我保护模式，保证不可用服务被及时删除
-    enable-self-preservation: false
-    eviction-interval-timer-in-ms: 2000
+    ###因为自己是为注册中心，不需要自己注册自己到注册中心（集群的时候需要为true）
+    register-with-eureka: false
+    ###因为自己是为注册中心，不需要检索服务信息
+    fetch-registry: false
+
