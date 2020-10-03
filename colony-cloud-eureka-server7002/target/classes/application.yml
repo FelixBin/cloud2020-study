@@ -17,4 +17,9 @@ eureka:
       ###是否需要从eureka上获取注册信息（需要检索服务）
       fetch-registry: true
 
+  server:
+    #关闭自我保护机制，保证不可用服务及时剔除
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 2000
+
 
