@@ -23,6 +23,8 @@
         <module>cloud-zk-consumer-order8080</module>
         <module>cloud-consul-provider-payment8001</module>
         <module>cloud-consul-consumer-payment8080</module>
+        <module>cloud-zk-ribbon-provider-payment8001</module>
+        <module>cloud-zk-ribbon-comsumer-payment8080</module>
 
     </modules>
     <packaging>pom</packaging>
