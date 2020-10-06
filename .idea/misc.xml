@@ -13,6 +13,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/cloud-zk-server7001/pom.xml" />
+        <option value="$PROJECT_DIR$/colony-cloud-eureka-openfeign-server7001/pom.xml" />
       </set>
     </option>
   </component>

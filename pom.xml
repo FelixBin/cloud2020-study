@@ -25,6 +25,12 @@
         <module>cloud-consul-consumer-payment8080</module>
         <module>cloud-zk-ribbon-provider-payment8001</module>
         <module>cloud-zk-ribbon-comsumer-payment8080</module>
+        <module>openfeign-colony-cloud-eureka-server7001</module>
+        <module>openfeign-colony-cloud-eureka-server7002</module>
+        <module>openfeign-colony-cloud-eureka-provider-payment8001</module>
+        <module>openfeign-colony-cloud-eureka-provider-payment8002</module>
+        <module>openfeign-colony-cloud-consumer-order8080</module>
+
 
     </modules>
     <packaging>pom</packaging>
