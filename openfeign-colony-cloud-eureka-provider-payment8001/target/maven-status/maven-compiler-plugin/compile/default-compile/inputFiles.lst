@@ -1,5 +1,5 @@
-G:\wfaceboss\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\dao\PaymentDao.java
-G:\wfaceboss\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\service\impl\PaymentServiceImpl.java
-G:\wfaceboss\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\controller\PaymentController.java
-G:\wfaceboss\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\service\PaymentService.java
-G:\wfaceboss\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\OpenFeignEurekaPaymentMain8001.java
+E:\wfaceboss\微服务\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\service\impl\PaymentServiceImpl.java
+E:\wfaceboss\微服务\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\controller\PaymentController.java
+E:\wfaceboss\微服务\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\dao\PaymentDao.java
+E:\wfaceboss\微服务\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\OpenFeignEurekaPaymentMain8001.java
+E:\wfaceboss\微服务\cloud2020-study\openfeign-colony-cloud-eureka-provider-payment8001\src\main\java\top\wfaceboss\springcloud\service\PaymentService.java
