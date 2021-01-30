@@ -38,6 +38,10 @@
         <module>config-cloud-eureka-server7001</module>
         <module>config-cloud-center-3344</module>
         <module>config-cloud-center-clientA-3355</module>
+        <module>stream-rabbitmq-cloud-eureka-server7001</module>
+        <module>stream-rabbitmq-cloud-eureka-server7002</module>
+        <module>stream-cloud-rabbitmq-provider8801</module>
+        <module>stream-cloud-rabbitmq-provider8802</module>
     </modules>
     <packaging>pom</packaging>
 
