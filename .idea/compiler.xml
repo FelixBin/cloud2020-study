@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-eureka-consumer-order8080" />
+        <module name="cloud-consumer-order8080" />
+        <module name="cloud-eureka-server7001" />
+        <module name="openfeign-colony-cloud-eureka-server7001" />
+        <module name="openfeign-colony-cloud-eureka-server7002" />
+        <module name="gateway-cloud-eureka-provider-payment8001" />
+        <module name="gateway-cloud-eureka-provider-payment8002" />
+        <module name="gateway-cloud-eureka-server7001" />
+        <module name="gateway-cloud-eureka-server7002" />
+        <module name="openfeign-colony-cloud-consumer-order8080" />
+        <module name="cloud-zk-ribbon-consumer-payment8080" />
+        <module name="cloud-zk-server7001" />
+        <module name="cloud-eureka-provider-payment8001" />
+        <module name="colony-cloud-eureka-provider-payment8002" />
+        <module name="colony-cloud-eureka-provider-payment8001" />
+        <module name="cloud-zk-consumer-order8080" />
+        <module name="colony-cloud-eureka-server7002" />
+        <module name="colony-cloud-eureka-server7001" />
+        <module name="cloud-consul-provider-payment8001" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-provider-payment8001" />
+        <module name="cloud-zk-ribbon-provider-payment8001" />
+        <module name="config-cloud-eureka-server7001" />
+        <module name="cloud-zk-provider-payment8001" />
+        <module name="config-cloud-center-3344" />
+        <module name="openfeign-colony-cloud-eureka-provider-payment8001" />
+        <module name="openfeign-colony-cloud-eureka-provider-payment8002" />
+        <module name="colony-cloud-consumer-order8080" />
+        <module name="gateway-cloud-gateway9527" />
+        <module name="cloud-consul-consumer-payment8080" />
+        <module name="config-cloud-center-clientA-3355" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
