@@ -29,7 +29,7 @@ public class PaymentController {
     public CommonResult getPaymentById(@PathVariable("id") Long id) {
 
         Payment payment = paymentService.getPaymentById(id);
-        log.info("------------------");
+
         if (payment != null) {
             return new CommonResult(200, "查询成功", payment);
         } else {

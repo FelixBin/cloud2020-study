@@ -45,6 +45,9 @@
         <module>stream-cloud-rabbitmq-consumer8803</module>
         <module>zipkin-sleuth-cloud-payment8001</module>
         <module>zipkin-sleuth-cloud-eureka-server7001</module>
+        <module>nacos-alibaba-provider-payment9001</module>
+        <module>nacos-alibaba-provider-payment9002</module>
+        <module>nacos-alibaba-consumer-nacos-order83</module>
     </modules>
     <packaging>pom</packaging>
 

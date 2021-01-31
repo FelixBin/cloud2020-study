@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-eureka-consumer-order8080" />
         <module name="cloud-consumer-order8080" />
+        <module name="nacos-alibaba-consumer-nacos-order83" />
         <module name="cloud-eureka-server7001" />
         <module name="stream-rabbitmq-cloud-eureka-server7001" />
         <module name="openfeign-colony-cloud-eureka-server7001" />
@@ -37,8 +38,10 @@
         <module name="zipkin-sleuth-cloud-eureka-server7001" />
         <module name="cloud-zk-ribbon-provider-payment8001" />
         <module name="config-cloud-eureka-server7001" />
+        <module name="nacos-alibaba-provider-payment9001" />
         <module name="cloud-zk-provider-payment8001" />
         <module name="config-cloud-center-3344" />
+        <module name="nacos-alibaba-provider-payment9002" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8001" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8002" />
         <module name="colony-cloud-consumer-order8080" />

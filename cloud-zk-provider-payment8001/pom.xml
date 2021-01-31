@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-zk-provider-payment</artifactId>
+    <artifactId>cloud-zk-provider-payment8001</artifactId>
     <dependencies>
 
         <dependency>
