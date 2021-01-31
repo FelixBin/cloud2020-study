@@ -45,6 +45,7 @@
         <module name="openfeign-colony-cloud-eureka-provider-payment8001" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8002" />
         <module name="colony-cloud-consumer-order8080" />
+        <module name="nacos-alibaba-config-client3377" />
         <module name="gateway-cloud-gateway9527" />
         <module name="cloud-consul-consumer-payment8080" />
         <module name="config-cloud-center-clientA-3355" />
