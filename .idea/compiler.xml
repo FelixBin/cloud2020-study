@@ -42,6 +42,7 @@
         <module name="cloud-zk-provider-payment8001" />
         <module name="config-cloud-center-3344" />
         <module name="nacos-alibaba-provider-payment9002" />
+        <module name="nacos-alibaba-provider-payment9003" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8001" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8002" />
         <module name="colony-cloud-consumer-order8080" />
