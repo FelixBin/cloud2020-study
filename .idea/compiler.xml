@@ -35,6 +35,7 @@
         <module name="zipkin-sleuth-cloud-payment8001" />
         <module name="cloud-api-commons" />
         <module name="cloud-provider-payment8001" />
+        <module name="nacos-alibaba-sentinel-service8401" />
         <module name="zipkin-sleuth-cloud-eureka-server7001" />
         <module name="cloud-zk-ribbon-provider-payment8001" />
         <module name="config-cloud-eureka-server7001" />
