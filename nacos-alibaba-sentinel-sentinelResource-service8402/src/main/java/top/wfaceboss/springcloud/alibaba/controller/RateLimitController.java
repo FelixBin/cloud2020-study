@@ -1,10 +1,10 @@
 package top.wfaceboss.springcloud.alibaba.controller;
 
-import com.alibaba.csp.sentinel.adapter.spring.webmvc.callback.BlockExceptionHandler;
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
+import top.wfaceboss.springcloud.alibaba.myHandler.CustomerblockHandler;
 import top.wfaceboss.springcloud.entities.CommonResult;
 import top.wfaceboss.springcloud.entities.Payment;
 
@@ -46,22 +46,15 @@ public class RateLimitController {
      * @return
      * @SentinelResource(参数1，参数2，参数3) ：参数1 ：限流方式 参数2：那个类  参数3：那个方法
      */
-    @GetMapping("/rateLimit/customerBlockHandler")
-    @SentinelResource(value = "customerBlockHandler",
-            blockHandlerClass = CustomerBlockHandler.class,
-            blockHandler = "handlerException")
-    public CommonResult customerBlockHandler() {
-        return new CommonResult(2020, "自定义限流处理信息....CustomerBlockHandler");
+    @GetMapping("/customerblockHandler")
+    @SentinelResource( value = "customerblockHandler",
+            blockHandlerClass=CustomerblockHandler.class,
+            blockHandler = "handleException2")
+    public CommonResult customerblockHandler(){
+
+        return new CommonResult(200,"按照自定义限流ok",new Payment(2020L,"serial001"));
     }
 }
 
-/**
- * 异常配置类
- */
-class CustomerBlockHandler {
-    public static CommonResult handlerException(BlockExceptionHandler exception) {
-        System.out.println("----------处理异常---------");
-        return new CommonResult(4444, "自定义限流处理信息....handlerException01");
-    }
-}
+
 

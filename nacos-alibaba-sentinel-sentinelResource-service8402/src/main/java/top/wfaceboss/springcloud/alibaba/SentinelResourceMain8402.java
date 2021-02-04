@@ -6,8 +6,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class SentinelResouceMain8402 {
-    public static void main(String[] args){
-        SpringApplication.run(SentinelResouceMain8402.class,args);
+public class SentinelResourceMain8402 {
+    public static void main(String[] args) {
+        SpringApplication.run(SentinelResourceMain8402.class, args);
     }
 }
