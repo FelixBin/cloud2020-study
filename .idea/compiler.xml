@@ -13,6 +13,7 @@
         <module name="cloud-eureka-server7001" />
         <module name="stream-rabbitmq-cloud-eureka-server7001" />
         <module name="openfeign-colony-cloud-eureka-server7001" />
+        <module name="nacos-alibaba-fusing-consumer-ribbon-order-84" />
         <module name="openfeign-colony-cloud-eureka-server7002" />
         <module name="stream-rabbitmq-cloud-eureka-server7002" />
         <module name="stream-cloud-rabbitmq-consumer8803" />
@@ -29,8 +30,6 @@
         <module name="colony-cloud-eureka-provider-payment8002" />
         <module name="colony-cloud-eureka-provider-payment8001" />
         <module name="cloud-zk-consumer-order8080" />
-        <module name="nacos-alibaba-provider-ribbon-payment-9003" />
-        <module name="nacos-alibaba-provider-ribbon-payment-9004" />
         <module name="colony-cloud-eureka-server7002" />
         <module name="colony-cloud-eureka-server7001" />
         <module name="cloud-consul-provider-payment8001" />
@@ -46,6 +45,8 @@
         <module name="config-cloud-center-3344" />
         <module name="nacos-alibaba-provider-payment9002" />
         <module name="nacos-alibaba-provider-payment9003" />
+        <module name="nacos-alibaba-provider-fusing-payment-9003" />
+        <module name="nacos-alibaba-provider-fusing-payment-9004" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8001" />
         <module name="openfeign-colony-cloud-eureka-provider-payment8002" />
         <module name="colony-cloud-consumer-order8080" />
@@ -54,7 +55,6 @@
         <module name="nacos-alibaba-sentinel-sentinelResource-service8402" />
         <module name="cloud-consul-consumer-payment8080" />
         <module name="config-cloud-center-clientA-3355" />
-        <module name="nacos-alibaba-ribbon-consumer-nacos-order-84" />
       </profile>
     </annotationProcessing>
   </component>

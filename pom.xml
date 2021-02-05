@@ -52,9 +52,9 @@
         <module>nacos-alibaba-provider-payment9003</module>
         <module>nacos-alibaba-sentinel-service8401</module>
         <module>nacos-alibaba-sentinel-sentinelResource-service8402</module>
-        <module>nacos-alibaba-provider-ribbon-payment-9003</module>
-        <module>nacos-alibaba-provider-ribbon-payment-9004</module>
-        <module>nacos-alibaba-ribbon-consumer-nacos-order-84</module>
+        <module>nacos-alibaba-provider-fusing-payment-9003</module>
+        <module>nacos-alibaba-provider-fusing-payment-9004</module>
+        <module>nacos-alibaba-fusing-consumer-ribbon-order-84</module>
     </modules>
     <packaging>pom</packaging>
 
