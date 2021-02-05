@@ -48,6 +48,7 @@
         <module name="colony-cloud-eureka-server7002" />
         <module name="colony-cloud-eureka-server7001" />
         <module name="zipkin-sleuth-cloud-payment8001" />
+        <module name="nacos-alibaba-sentinel-persist-service8403" />
         <module name="cloud-provider-payment8001" />
         <module name="nacos-alibaba-sentinel-service8401" />
         <module name="zipkin-sleuth-cloud-eureka-server7001" />

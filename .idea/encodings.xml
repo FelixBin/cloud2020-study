@@ -69,6 +69,8 @@
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9003/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-persist-service8403/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-persist-service8403/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-sentinelResource-service8402/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-sentinelResource-service8402/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-service8401/src/main/java" charset="UTF-8" />

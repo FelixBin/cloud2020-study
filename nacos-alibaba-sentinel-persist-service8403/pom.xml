@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>nacos-alibaba-sentinel-service8401</artifactId>
+    <artifactId>nacos-alibaba-sentinel-persist-service8403</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -22,16 +22,25 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
+        <!--服务发现-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
         </dependency>
 
+        <!--sentinel规则持久化-->
+        <dependency>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-datasource-nacos</artifactId>
+        </dependency>
+
+        <!--引入sentinel-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
         </dependency>
 
+        <!-- openFeign客户端-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-openfeign</artifactId>
@@ -69,5 +78,4 @@
         </dependency>
 
     </dependencies>
-
 </project>
