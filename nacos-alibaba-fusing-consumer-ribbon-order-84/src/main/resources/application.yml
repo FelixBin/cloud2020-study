@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: nacos-order-consumer
+    name: nacos-ribbon-order-consumer
   cloud:
     nacos:
       discovery:

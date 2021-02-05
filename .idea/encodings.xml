@@ -55,6 +55,8 @@
     <file url="file://$PROJECT_DIR$/nacos-alibaba-config-client3377/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-consumer-nacos-order83/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-consumer-nacos-order83/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-fusing-consumer-openfeign-order-84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-fusing-consumer-openfeign-order-84/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-fusing-consumer-ribbon-order-84/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-fusing-consumer-ribbon-order-84/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-fusing-payment-9003/src/main/java" charset="UTF-8" />

@@ -55,6 +55,7 @@
         <module>nacos-alibaba-provider-fusing-payment-9003</module>
         <module>nacos-alibaba-provider-fusing-payment-9004</module>
         <module>nacos-alibaba-fusing-consumer-ribbon-order-84</module>
+        <module>nacos-alibaba-fusing-consumer-openfeign-order-84</module>
     </modules>
     <packaging>pom</packaging>
 
