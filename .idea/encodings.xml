@@ -53,20 +53,20 @@
     <file url="file://$PROJECT_DIR$/gateway-cloud-gateway9527/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-config-client3377/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-config-client3377/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/nacos-alibaba-consumer-nacos-order-84/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/nacos-alibaba-consumer-nacos-order-84/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-consumer-nacos-order83/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-consumer-nacos-order83/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment-9003/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment-9003/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment-9004/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment-9004/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9003/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-payment9003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-ribbon-payment-9003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-ribbon-payment-9003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-ribbon-payment-9004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-provider-ribbon-payment-9004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-ribbon-consumer-nacos-order-84/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-alibaba-ribbon-consumer-nacos-order-84/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-sentinelResource-service8402/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-sentinelResource-service8402/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-alibaba-sentinel-service8401/src/main/java" charset="UTF-8" />

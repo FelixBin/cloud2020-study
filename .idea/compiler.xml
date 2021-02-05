@@ -29,11 +29,12 @@
         <module name="colony-cloud-eureka-provider-payment8002" />
         <module name="colony-cloud-eureka-provider-payment8001" />
         <module name="cloud-zk-consumer-order8080" />
+        <module name="nacos-alibaba-provider-ribbon-payment-9003" />
+        <module name="nacos-alibaba-provider-ribbon-payment-9004" />
         <module name="colony-cloud-eureka-server7002" />
         <module name="colony-cloud-eureka-server7001" />
         <module name="cloud-consul-provider-payment8001" />
         <module name="zipkin-sleuth-cloud-payment8001" />
-        <module name="nacos-alibaba-consumer-nacos-order-84" />
         <module name="cloud-api-commons" />
         <module name="cloud-provider-payment8001" />
         <module name="nacos-alibaba-sentinel-service8401" />
@@ -51,10 +52,9 @@
         <module name="nacos-alibaba-config-client3377" />
         <module name="gateway-cloud-gateway9527" />
         <module name="nacos-alibaba-sentinel-sentinelResource-service8402" />
-        <module name="nacos-alibaba-provider-payment-9004" />
         <module name="cloud-consul-consumer-payment8080" />
         <module name="config-cloud-center-clientA-3355" />
-        <module name="nacos-alibaba-provider-payment-9003" />
+        <module name="nacos-alibaba-ribbon-consumer-nacos-order-84" />
       </profile>
     </annotationProcessing>
   </component>
