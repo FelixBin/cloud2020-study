@@ -57,6 +57,7 @@
         <module>nacos-alibaba-fusing-consumer-ribbon-order-84</module>
         <module>nacos-alibaba-fusing-consumer-openfeign-order-84</module>
         <module>nacos-alibaba-sentinel-persist-service8403</module>
+        <module>nacos-seata-order-service2001</module>
     </modules>
     <packaging>pom</packaging>
 

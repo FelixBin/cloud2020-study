@@ -10,6 +10,7 @@
         <module name="nacos-alibaba-consumer-nacos-order83" />
         <module name="openfeign-colony-cloud-eureka-server7001" />
         <module name="openfeign-colony-cloud-eureka-server7002" />
+        <module name="nacos-seata-order-service2001" />
         <module name="gateway-cloud-eureka-provider-payment8001" />
         <module name="gateway-cloud-eureka-provider-payment8002" />
         <module name="stream-cloud-rabbitmq-provider8801" />
