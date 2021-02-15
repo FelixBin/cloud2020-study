@@ -29,3 +29,10 @@ logging:
 
 mybatis:
   mapperLocations: classpath:mapper/*.xml
+
+
+ribbon:
+  ReadTimeout: 6000 #配置数据通信超时时长 默认为2s
+
+
+
